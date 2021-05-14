@@ -1,0 +1,24 @@
+.weather-container {
+  background: grey;
+  text-align: center;
+  max-width: 20rem;
+  border-radius: 15px;
+}
+
+.weather {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.location {
+  font-size: 4rem;
+  margin: 0;
+  font-weight: bolder;
+  color: coral;
+}
